@@ -1,1 +1,2 @@
-# archethic.tech
+# Archethic Website (archethic.tech)
+
